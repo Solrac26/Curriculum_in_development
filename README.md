@@ -1,7 +1,7 @@
 # Curriculum in development
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![imagen](https://www.instagram.com/carlos.romero26/)
+(https://www.instagram.com/carlos.romero26/)
 
 ## Herramientas utilizadas:
 
